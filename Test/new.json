@@ -1,0 +1,650 @@
+{
+  "students": [
+    {
+      "farmatsiya": [
+        {
+          "f101a": [
+            {
+              "Mon": [
+                {
+                  "time": "08:30-09:50",
+                  "fan": "Matematika Mon",
+                  "domla": "Xabibullayev",
+                  "zoom": "https://us05web.zoom.us/j/9178099120?pwd=ZVRuU2NSa3IzS3JXOVZtemFLcFFnZz09"
+                },
+                {
+                  "time": "10:00-11:20",
+                  "fan": "Fizika Mon",
+                  "domla": "Jo'rayev",
+                  "zoom": "https://us05web.zoom.us/j/9178029190?pwd=ZVRuU2NSa3IzS3JXOVZtemFLcFFnZz09"
+                },
+                {
+                  "time": "11:30-12:50",
+                  "fan": "English Mon",
+                  "domla": "Choriyev",
+                  "zoom": "https://us05web.zoom.us/j/9178049190?pwd=ZVRuU2NSa3IzS3JXOVZtemFLcFFnZz09"
+                },
+                {
+                  "time": "13:00-14-20",
+                  "fan": "Informatika Mon",
+                  "domla": "Serikov",
+                  "zoom": "https://us05web.zoom.us/j/9178059190?pwd=ZVRuU2NSa3IzS3JXOVZtemFLcFFnZz09"
+                }
+              ],
+              "Tue": [
+                {
+                  "time": "08:30-09:50",
+                  "fan": "Matematika Tue",
+                  "domla": "Xabibullayev",
+                  "zoom": "https://us05web.zoom.us/j/9178099120?pwd=ZVRuU2NSa3IzS3JXOVZtemFLcFFnZz09"
+                },
+                {
+                  "time": "10:00-11:20",
+                  "fan": "Fizika Tue",
+                  "domla": "Jo'rayev",
+                  "zoom": "https://us05web.zoom.us/j/9178029190?pwd=ZVRuU2NSa3IzS3JXOVZtemFLcFFnZz09"
+                },
+                {
+                  "time": "11:30-12:50",
+                  "fan": "English Tue",
+                  "domla": "Choriyev",
+                  "zoom": "https://us05web.zoom.us/j/9178049190?pwd=ZVRuU2NSa3IzS3JXOVZtemFLcFFnZz09"
+                },
+                {
+                  "time": "13:00-14-20",
+                  "fan": "Informatika Tue",
+                  "domla": "Serikov",
+                  "zoom": "https://us05web.zoom.us/j/9178059190?pwd=ZVRuU2NSa3IzS3JXOVZtemFLcFFnZz09"
+                }
+              ],
+              "Wed": [
+                {
+                  "time": "08:30-09:50",
+                  "fan": "Matematika Wed",
+                  "domla": "Xabibullayev",
+                  "zoom": "https://us05web.zoom.us/j/9178099120?pwd=ZVRuU2NSa3IzS3JXOVZtemFLcFFnZz09"
+                },
+                {
+                  "time": "10:00-11:20",
+                  "fan": "Fizika Wed",
+                  "domla": "Jo'rayev",
+                  "zoom": "https://us05web.zoom.us/j/9178029190?pwd=ZVRuU2NSa3IzS3JXOVZtemFLcFFnZz09"
+                },
+                {
+                  "time": "11:30-12:50",
+                  "fan": "English Wed",
+                  "domla": "Choriyev",
+                  "zoom": "https://us05web.zoom.us/j/9178049190?pwd=ZVRuU2NSa3IzS3JXOVZtemFLcFFnZz09"
+                },
+                {
+                  "time": "13:00-14-20",
+                  "fan": "Informatika Wed",
+                  "domla": "Serikov",
+                  "zoom": "https://us05web.zoom.us/j/9178059190?pwd=ZVRuU2NSa3IzS3JXOVZtemFLcFFnZz09"
+                }
+              ],
+              "Thu": [
+                {
+                  "time": "08:30-09:50",
+                  "fan": "Matematika Thu",
+                  "domla": "Xabibullayev",
+                  "zoom": "https://us05web.zoom.us/j/9178099120?pwd=ZVRuU2NSa3IzS3JXOVZtemFLcFFnZz09"
+                },
+                {
+                  "time": "10:00-11:20",
+                  "fan": "Fizika Thu",
+                  "domla": "Jo'rayev",
+                  "zoom": "https://us05web.zoom.us/j/9178029190?pwd=ZVRuU2NSa3IzS3JXOVZtemFLcFFnZz09"
+                },
+                {
+                  "time": "11:30-12:50",
+                  "fan": "English Thu",
+                  "domla": "Choriyev",
+                  "zoom": "https://us05web.zoom.us/j/9178049190?pwd=ZVRuU2NSa3IzS3JXOVZtemFLcFFnZz09"
+                },
+                {
+                  "time": "13:00-14-20",
+                  "fan": "Informatika Thu",
+                  "domla": "Serikov",
+                  "zoom": "https://us05web.zoom.us/j/9178059190?pwd=ZVRuU2NSa3IzS3JXOVZtemFLcFFnZz09"
+                }
+              ],
+              "Fri": [
+                {
+                  "time": "08:30-09:50",
+                  "fan": "Matematika Fri",
+                  "domla": "Xabibullayev",
+                  "zoom": "https://us05web.zoom.us/j/9178099120?pwd=ZVRuU2NSa3IzS3JXOVZtemFLcFFnZz09"
+                },
+                {
+                  "time": "10:00-11:20",
+                  "fan": "Fizika Fri",
+                  "domla": "Jo'rayev",
+                  "zoom": "https://us05web.zoom.us/j/9178029190?pwd=ZVRuU2NSa3IzS3JXOVZtemFLcFFnZz09"
+                },
+                {
+                  "time": "11:30-12:50",
+                  "fan": "English Fri",
+                  "domla": "Choriyev",
+                  "zoom": "https://us05web.zoom.us/j/9178049190?pwd=ZVRuU2NSa3IzS3JXOVZtemFLcFFnZz09"
+                },
+                {
+                  "time": "13:00-14-20",
+                  "fan": "Informatika Fri",
+                  "domla": "Serikov",
+                  "zoom": "https://us05web.zoom.us/j/9178059190?pwd=ZVRuU2NSa3IzS3JXOVZtemFLcFFnZz09"
+                }
+              ],
+              "Sat": [
+                {
+                  "time": "08:30-09:50",
+                  "fan": "Matematika Sat",
+                  "domla": "Xabibullayev",
+                  "zoom": "https://us05web.zoom.us/j/9178099120?pwd=ZVRuU2NSa3IzS3JXOVZtemFLcFFnZz09"
+                },
+                {
+                  "time": "10:00-11:20",
+                  "fan": "Fizika Sat",
+                  "domla": "Jo'rayev",
+                  "zoom": "https://us05web.zoom.us/j/9178029190?pwd=ZVRuU2NSa3IzS3JXOVZtemFLcFFnZz09"
+                },
+                {
+                  "time": "11:30-12:50",
+                  "fan": "English Sat",
+                  "domla": "Choriyev",
+                  "zoom": "https://us05web.zoom.us/j/9178049190?pwd=ZVRuU2NSa3IzS3JXOVZtemFLcFFnZz09"
+                },
+                {
+                  "time": "13:00-14-20",
+                  "fan": "Informatika Sat",
+                  "domla": "Serikov",
+                  "zoom": "https://us05web.zoom.us/j/9178059190?pwd=ZVRuU2NSa3IzS3JXOVZtemFLcFFnZz09"
+                }
+              ]
+            }
+          ],
+          "f102a": [
+            {
+              "Mon": [
+                {
+                  "time": "08:30-09:50",
+                  "fan": "Matematika Mon",
+                  "domla": "Xabibullayev",
+                  "zoom": "https://us05web.zoom.us/j/9178099120?pwd=ZVRuU2NSa3IzS3JXOVZtemFLcFFnZz09"
+                },
+                {
+                  "time": "10:00-11:20",
+                  "fan": "Fizika Mon",
+                  "domla": "Jo'rayev",
+                  "zoom": "https://us05web.zoom.us/j/9178029190?pwd=ZVRuU2NSa3IzS3JXOVZtemFLcFFnZz09"
+                },
+                {
+                  "time": "11:30-12:50",
+                  "fan": "English Mon",
+                  "domla": "Choriyev",
+                  "zoom": "https://us05web.zoom.us/j/9178049190?pwd=ZVRuU2NSa3IzS3JXOVZtemFLcFFnZz09"
+                },
+                {
+                  "time": "13:00-14-20",
+                  "fan": "Informatika Mon",
+                  "domla": "Serikov",
+                  "zoom": "https://us05web.zoom.us/j/9178059190?pwd=ZVRuU2NSa3IzS3JXOVZtemFLcFFnZz09"
+                }
+              ],
+              "Tue": [
+                {
+                  "time": "08:30-09:50",
+                  "fan": "Matematika Tue",
+                  "domla": "Xabibullayev",
+                  "zoom": "https://us05web.zoom.us/j/9178099120?pwd=ZVRuU2NSa3IzS3JXOVZtemFLcFFnZz09"
+                },
+                {
+                  "time": "10:00-11:20",
+                  "fan": "Fizika Tue",
+                  "domla": "Jo'rayev",
+                  "zoom": "https://us05web.zoom.us/j/9178029190?pwd=ZVRuU2NSa3IzS3JXOVZtemFLcFFnZz09"
+                },
+                {
+                  "time": "11:30-12:50",
+                  "fan": "English Tue",
+                  "domla": "Choriyev",
+                  "zoom": "https://us05web.zoom.us/j/9178049190?pwd=ZVRuU2NSa3IzS3JXOVZtemFLcFFnZz09"
+                },
+                {
+                  "time": "13:00-14-20",
+                  "fan": "Informatika Tue",
+                  "domla": "Serikov",
+                  "zoom": "https://us05web.zoom.us/j/9178059190?pwd=ZVRuU2NSa3IzS3JXOVZtemFLcFFnZz09"
+                }
+              ],
+              "Wed": [
+                {
+                  "time": "08:30-09:50",
+                  "fan": "Matematika Wed",
+                  "domla": "Xabibullayev",
+                  "zoom": "https://us05web.zoom.us/j/9178099120?pwd=ZVRuU2NSa3IzS3JXOVZtemFLcFFnZz09"
+                },
+                {
+                  "time": "10:00-11:20",
+                  "fan": "Fizika Wed",
+                  "domla": "Jo'rayev",
+                  "zoom": "https://us05web.zoom.us/j/9178029190?pwd=ZVRuU2NSa3IzS3JXOVZtemFLcFFnZz09"
+                },
+                {
+                  "time": "11:30-12:50",
+                  "fan": "English Wed",
+                  "domla": "Choriyev",
+                  "zoom": "https://us05web.zoom.us/j/9178049190?pwd=ZVRuU2NSa3IzS3JXOVZtemFLcFFnZz09"
+                },
+                {
+                  "time": "13:00-14-20",
+                  "fan": "Informatika Wed",
+                  "domla": "Serikov",
+                  "zoom": "https://us05web.zoom.us/j/9178059190?pwd=ZVRuU2NSa3IzS3JXOVZtemFLcFFnZz09"
+                }
+              ],
+              "Thu": [
+                {
+                  "time": "08:30-09:50",
+                  "fan": "Matematika Thu",
+                  "domla": "Xabibullayev",
+                  "zoom": "https://us05web.zoom.us/j/9178099120?pwd=ZVRuU2NSa3IzS3JXOVZtemFLcFFnZz09"
+                },
+                {
+                  "time": "10:00-11:20",
+                  "fan": "Fizika Thu",
+                  "domla": "Jo'rayev",
+                  "zoom": "https://us05web.zoom.us/j/9178029190?pwd=ZVRuU2NSa3IzS3JXOVZtemFLcFFnZz09"
+                },
+                {
+                  "time": "11:30-12:50",
+                  "fan": "English Thu",
+                  "domla": "Choriyev",
+                  "zoom": "https://us05web.zoom.us/j/9178049190?pwd=ZVRuU2NSa3IzS3JXOVZtemFLcFFnZz09"
+                },
+                {
+                  "time": "13:00-14-20",
+                  "fan": "Informatika Thu",
+                  "domla": "Serikov",
+                  "zoom": "https://us05web.zoom.us/j/9178059190?pwd=ZVRuU2NSa3IzS3JXOVZtemFLcFFnZz09"
+                }
+              ],
+              "Fri": [
+                {
+                  "time": "08:30-09:50",
+                  "fan": "Matematika Fri",
+                  "domla": "Xabibullayev",
+                  "zoom": "https://us05web.zoom.us/j/9178099120?pwd=ZVRuU2NSa3IzS3JXOVZtemFLcFFnZz09"
+                },
+                {
+                  "time": "10:00-11:20",
+                  "fan": "Fizika Fri",
+                  "domla": "Jo'rayev",
+                  "zoom": "https://us05web.zoom.us/j/9178029190?pwd=ZVRuU2NSa3IzS3JXOVZtemFLcFFnZz09"
+                },
+                {
+                  "time": "11:30-12:50",
+                  "fan": "English Fri",
+                  "domla": "Choriyev",
+                  "zoom": "https://us05web.zoom.us/j/9178049190?pwd=ZVRuU2NSa3IzS3JXOVZtemFLcFFnZz09"
+                },
+                {
+                  "time": "13:00-14-20",
+                  "fan": "Informatika Fri",
+                  "domla": "Serikov",
+                  "zoom": "https://us05web.zoom.us/j/9178059190?pwd=ZVRuU2NSa3IzS3JXOVZtemFLcFFnZz09"
+                }
+              ],
+              "Sat": [
+                {
+                  "time": "08:30-09:50",
+                  "fan": "Matematika Sat",
+                  "domla": "Xabibullayev",
+                  "zoom": "https://us05web.zoom.us/j/9178099120?pwd=ZVRuU2NSa3IzS3JXOVZtemFLcFFnZz09"
+                },
+                {
+                  "time": "10:00-11:20",
+                  "fan": "Fizika Sat",
+                  "domla": "Jo'rayev",
+                  "zoom": "https://us05web.zoom.us/j/9178029190?pwd=ZVRuU2NSa3IzS3JXOVZtemFLcFFnZz09"
+                },
+                {
+                  "time": "11:30-12:50",
+                  "fan": "English Sat",
+                  "domla": "Choriyev",
+                  "zoom": "https://us05web.zoom.us/j/9178049190?pwd=ZVRuU2NSa3IzS3JXOVZtemFLcFFnZz09"
+                },
+                {
+                  "time": "13:00-14-20",
+                  "fan": "Informatika Sat",
+                  "domla": "Serikov",
+                  "zoom": "https://us05web.zoom.us/j/9178059190?pwd=ZVRuU2NSa3IzS3JXOVZtemFLcFFnZz09"
+                }
+              ]
+            }
+          ],
+          "f103a": [
+            {
+              "Mon": [
+                {
+                  "time": "08:30-09:50",
+                  "fan": "Matematika Mon",
+                  "domla": "Xabibullayev",
+                  "zoom": "https://us05web.zoom.us/j/9178099120?pwd=ZVRuU2NSa3IzS3JXOVZtemFLcFFnZz09"
+                },
+                {
+                  "time": "10:00-11:20",
+                  "fan": "Fizika Mon",
+                  "domla": "Jo'rayev",
+                  "zoom": "https://us05web.zoom.us/j/9178029190?pwd=ZVRuU2NSa3IzS3JXOVZtemFLcFFnZz09"
+                },
+                {
+                  "time": "11:30-12:50",
+                  "fan": "English Mon",
+                  "domla": "Choriyev",
+                  "zoom": "https://us05web.zoom.us/j/9178049190?pwd=ZVRuU2NSa3IzS3JXOVZtemFLcFFnZz09"
+                },
+                {
+                  "time": "13:00-14-20",
+                  "fan": "Informatika Mon",
+                  "domla": "Serikov",
+                  "zoom": "https://us05web.zoom.us/j/9178059190?pwd=ZVRuU2NSa3IzS3JXOVZtemFLcFFnZz09"
+                }
+              ],
+              "Tue": [
+                {
+                  "time": "08:30-09:50",
+                  "fan": "Matematika Tue",
+                  "domla": "Xabibullayev",
+                  "zoom": "https://us05web.zoom.us/j/9178099120?pwd=ZVRuU2NSa3IzS3JXOVZtemFLcFFnZz09"
+                },
+                {
+                  "time": "10:00-11:20",
+                  "fan": "Fizika Tue",
+                  "domla": "Jo'rayev",
+                  "zoom": "https://us05web.zoom.us/j/9178029190?pwd=ZVRuU2NSa3IzS3JXOVZtemFLcFFnZz09"
+                },
+                {
+                  "time": "11:30-12:50",
+                  "fan": "English Tue",
+                  "domla": "Choriyev",
+                  "zoom": "https://us05web.zoom.us/j/9178049190?pwd=ZVRuU2NSa3IzS3JXOVZtemFLcFFnZz09"
+                },
+                {
+                  "time": "13:00-14-20",
+                  "fan": "Informatika Tue",
+                  "domla": "Serikov",
+                  "zoom": "https://us05web.zoom.us/j/9178059190?pwd=ZVRuU2NSa3IzS3JXOVZtemFLcFFnZz09"
+                }
+              ],
+              "Wed": [
+                {
+                  "time": "08:30-09:50",
+                  "fan": "Matematika Wed",
+                  "domla": "Xabibullayev",
+                  "zoom": "https://us05web.zoom.us/j/9178099120?pwd=ZVRuU2NSa3IzS3JXOVZtemFLcFFnZz09"
+                },
+                {
+                  "time": "10:00-11:20",
+                  "fan": "Fizika Wed",
+                  "domla": "Jo'rayev",
+                  "zoom": "https://us05web.zoom.us/j/9178029190?pwd=ZVRuU2NSa3IzS3JXOVZtemFLcFFnZz09"
+                },
+                {
+                  "time": "11:30-12:50",
+                  "fan": "English Wed",
+                  "domla": "Choriyev",
+                  "zoom": "https://us05web.zoom.us/j/9178049190?pwd=ZVRuU2NSa3IzS3JXOVZtemFLcFFnZz09"
+                },
+                {
+                  "time": "13:00-14-20",
+                  "fan": "Informatika Wed",
+                  "domla": "Serikov",
+                  "zoom": "https://us05web.zoom.us/j/9178059190?pwd=ZVRuU2NSa3IzS3JXOVZtemFLcFFnZz09"
+                }
+              ],
+              "Thu": [
+                {
+                  "time": "08:30-09:50",
+                  "fan": "Matematika Thu",
+                  "domla": "Xabibullayev",
+                  "zoom": "https://us05web.zoom.us/j/9178099120?pwd=ZVRuU2NSa3IzS3JXOVZtemFLcFFnZz09"
+                },
+                {
+                  "time": "10:00-11:20",
+                  "fan": "Fizika Thu",
+                  "domla": "Jo'rayev",
+                  "zoom": "https://us05web.zoom.us/j/9178029190?pwd=ZVRuU2NSa3IzS3JXOVZtemFLcFFnZz09"
+                },
+                {
+                  "time": "11:30-12:50",
+                  "fan": "English Thu",
+                  "domla": "Choriyev",
+                  "zoom": "https://us05web.zoom.us/j/9178049190?pwd=ZVRuU2NSa3IzS3JXOVZtemFLcFFnZz09"
+                },
+                {
+                  "time": "13:00-14-20",
+                  "fan": "Informatika Thu",
+                  "domla": "Serikov",
+                  "zoom": "https://us05web.zoom.us/j/9178059190?pwd=ZVRuU2NSa3IzS3JXOVZtemFLcFFnZz09"
+                }
+              ],
+              "Fri": [
+                {
+                  "time": "08:30-09:50",
+                  "fan": "Matematika Fri",
+                  "domla": "Xabibullayev",
+                  "zoom": "https://us05web.zoom.us/j/9178099120?pwd=ZVRuU2NSa3IzS3JXOVZtemFLcFFnZz09"
+                },
+                {
+                  "time": "10:00-11:20",
+                  "fan": "Fizika Fri",
+                  "domla": "Jo'rayev",
+                  "zoom": "https://us05web.zoom.us/j/9178029190?pwd=ZVRuU2NSa3IzS3JXOVZtemFLcFFnZz09"
+                },
+                {
+                  "time": "11:30-12:50",
+                  "fan": "English Fri",
+                  "domla": "Choriyev",
+                  "zoom": "https://us05web.zoom.us/j/9178049190?pwd=ZVRuU2NSa3IzS3JXOVZtemFLcFFnZz09"
+                },
+                {
+                  "time": "13:00-14-20",
+                  "fan": "Informatika Fri",
+                  "domla": "Serikov",
+                  "zoom": "https://us05web.zoom.us/j/9178059190?pwd=ZVRuU2NSa3IzS3JXOVZtemFLcFFnZz09"
+                }
+              ],
+              "Sat": [
+                {
+                  "time": "08:30-09:50",
+                  "fan": "Matematika Sat",
+                  "domla": "Xabibullayev",
+                  "zoom": "https://us05web.zoom.us/j/9178099120?pwd=ZVRuU2NSa3IzS3JXOVZtemFLcFFnZz09"
+                },
+                {
+                  "time": "10:00-11:20",
+                  "fan": "Fizika Sat",
+                  "domla": "Jo'rayev",
+                  "zoom": "https://us05web.zoom.us/j/9178029190?pwd=ZVRuU2NSa3IzS3JXOVZtemFLcFFnZz09"
+                },
+                {
+                  "time": "11:30-12:50",
+                  "fan": "English Sat",
+                  "domla": "Choriyev",
+                  "zoom": "https://us05web.zoom.us/j/9178049190?pwd=ZVRuU2NSa3IzS3JXOVZtemFLcFFnZz09"
+                },
+                {
+                  "time": "13:00-14-20",
+                  "fan": "Informatika Sat",
+                  "domla": "Serikov",
+                  "zoom": "https://us05web.zoom.us/j/9178059190?pwd=ZVRuU2NSa3IzS3JXOVZtemFLcFFnZz09"
+                }
+              ]
+            }
+          ],
+          "f104a": [
+            {
+              "Mon": [
+                {
+                  "time": "08:30-09:50",
+                  "fan": "Matematika Mon",
+                  "domla": "Xabibullayev",
+                  "zoom": "https://us05web.zoom.us/j/9178099120?pwd=ZVRuU2NSa3IzS3JXOVZtemFLcFFnZz09"
+                },
+                {
+                  "time": "10:00-11:20",
+                  "fan": "Fizika Mon",
+                  "domla": "Jo'rayev",
+                  "zoom": "https://us05web.zoom.us/j/9178029190?pwd=ZVRuU2NSa3IzS3JXOVZtemFLcFFnZz09"
+                },
+                {
+                  "time": "11:30-12:50",
+                  "fan": "English Mon",
+                  "domla": "Choriyev",
+                  "zoom": "https://us05web.zoom.us/j/9178049190?pwd=ZVRuU2NSa3IzS3JXOVZtemFLcFFnZz09"
+                },
+                {
+                  "time": "13:00-14-20",
+                  "fan": "Informatika Mon",
+                  "domla": "Serikov",
+                  "zoom": "https://us05web.zoom.us/j/9178059190?pwd=ZVRuU2NSa3IzS3JXOVZtemFLcFFnZz09"
+                }
+              ],
+              "Tue": [
+                {
+                  "time": "08:30-09:50",
+                  "fan": "Matematika Tue",
+                  "domla": "Xabibullayev",
+                  "zoom": "https://us05web.zoom.us/j/9178099120?pwd=ZVRuU2NSa3IzS3JXOVZtemFLcFFnZz09"
+                },
+                {
+                  "time": "10:00-11:20",
+                  "fan": "Fizika Tue",
+                  "domla": "Jo'rayev",
+                  "zoom": "https://us05web.zoom.us/j/9178029190?pwd=ZVRuU2NSa3IzS3JXOVZtemFLcFFnZz09"
+                },
+                {
+                  "time": "11:30-12:50",
+                  "fan": "English Tue",
+                  "domla": "Choriyev",
+                  "zoom": "https://us05web.zoom.us/j/9178049190?pwd=ZVRuU2NSa3IzS3JXOVZtemFLcFFnZz09"
+                },
+                {
+                  "time": "13:00-14-20",
+                  "fan": "Informatika Tue",
+                  "domla": "Serikov",
+                  "zoom": "https://us05web.zoom.us/j/9178059190?pwd=ZVRuU2NSa3IzS3JXOVZtemFLcFFnZz09"
+                }
+              ],
+              "Wed": [
+                {
+                  "time": "08:30-09:50",
+                  "fan": "Matematika Wed",
+                  "domla": "Xabibullayev",
+                  "zoom": "https://us05web.zoom.us/j/9178099120?pwd=ZVRuU2NSa3IzS3JXOVZtemFLcFFnZz09"
+                },
+                {
+                  "time": "10:00-11:20",
+                  "fan": "Fizika Wed",
+                  "domla": "Jo'rayev",
+                  "zoom": "https://us05web.zoom.us/j/9178029190?pwd=ZVRuU2NSa3IzS3JXOVZtemFLcFFnZz09"
+                },
+                {
+                  "time": "11:30-12:50",
+                  "fan": "English Wed",
+                  "domla": "Choriyev",
+                  "zoom": "https://us05web.zoom.us/j/9178049190?pwd=ZVRuU2NSa3IzS3JXOVZtemFLcFFnZz09"
+                },
+                {
+                  "time": "13:00-14-20",
+                  "fan": "Informatika Wed",
+                  "domla": "Serikov",
+                  "zoom": "https://us05web.zoom.us/j/9178059190?pwd=ZVRuU2NSa3IzS3JXOVZtemFLcFFnZz09"
+                }
+              ],
+              "Thu": [
+                {
+                  "time": "08:30-09:50",
+                  "fan": "Matematika Thu",
+                  "domla": "Xabibullayev",
+                  "zoom": "https://us05web.zoom.us/j/9178099120?pwd=ZVRuU2NSa3IzS3JXOVZtemFLcFFnZz09"
+                },
+                {
+                  "time": "10:00-11:20",
+                  "fan": "Fizika Thu",
+                  "domla": "Jo'rayev",
+                  "zoom": "https://us05web.zoom.us/j/9178029190?pwd=ZVRuU2NSa3IzS3JXOVZtemFLcFFnZz09"
+                },
+                {
+                  "time": "11:30-12:50",
+                  "fan": "English Thu",
+                  "domla": "Choriyev",
+                  "zoom": "https://us05web.zoom.us/j/9178049190?pwd=ZVRuU2NSa3IzS3JXOVZtemFLcFFnZz09"
+                },
+                {
+                  "time": "13:00-14-20",
+                  "fan": "Informatika Thu",
+                  "domla": "Serikov",
+                  "zoom": "https://us05web.zoom.us/j/9178059190?pwd=ZVRuU2NSa3IzS3JXOVZtemFLcFFnZz09"
+                }
+              ],
+              "Fri": [
+                {
+                  "time": "08:30-09:50",
+                  "fan": "Matematika Fri",
+                  "domla": "Xabibullayev",
+                  "zoom": "https://us05web.zoom.us/j/9178099120?pwd=ZVRuU2NSa3IzS3JXOVZtemFLcFFnZz09"
+                },
+                {
+                  "time": "10:00-11:20",
+                  "fan": "Fizika Fri",
+                  "domla": "Jo'rayev",
+                  "zoom": "https://us05web.zoom.us/j/9178029190?pwd=ZVRuU2NSa3IzS3JXOVZtemFLcFFnZz09"
+                },
+                {
+                  "time": "11:30-12:50",
+                  "fan": "English Fri",
+                  "domla": "Choriyev",
+                  "zoom": "https://us05web.zoom.us/j/9178049190?pwd=ZVRuU2NSa3IzS3JXOVZtemFLcFFnZz09"
+                },
+                {
+                  "time": "13:00-14-20",
+                  "fan": "Informatika Fri",
+                  "domla": "Serikov",
+                  "zoom": "https://us05web.zoom.us/j/9178059190?pwd=ZVRuU2NSa3IzS3JXOVZtemFLcFFnZz09"
+                }
+              ],
+              "Sat": [
+                {
+                  "time": "08:30-09:50",
+                  "fan": "Matematika Sat",
+                  "domla": "Xabibullayev",
+                  "zoom": "https://us05web.zoom.us/j/9178099120?pwd=ZVRuU2NSa3IzS3JXOVZtemFLcFFnZz09"
+                },
+                {
+                  "time": "10:00-11:20",
+                  "fan": "Fizika Sat",
+                  "domla": "Jo'rayev",
+                  "zoom": "https://us05web.zoom.us/j/9178029190?pwd=ZVRuU2NSa3IzS3JXOVZtemFLcFFnZz09"
+                },
+                {
+                  "time": "11:30-12:50",
+                  "fan": "English Sat",
+                  "domla": "Choriyev",
+                  "zoom": "https://us05web.zoom.us/j/9178049190?pwd=ZVRuU2NSa3IzS3JXOVZtemFLcFFnZz09"
+                },
+                {
+                  "time": "13:00-14-20",
+                  "fan": "Informatika Sat",
+                  "domla": "Serikov",
+                  "zoom": "https://us05web.zoom.us/j/9178059190?pwd=ZVRuU2NSa3IzS3JXOVZtemFLcFFnZz09"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

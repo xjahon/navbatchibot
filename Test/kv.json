@@ -1,0 +1,44 @@
+{
+  "Mon": [
+    {
+      "user": "@XabibullayevJahongir",
+      "food": "Osh"
+    }
+  ],
+  "Tue": [
+    {
+      "user": "@Shodiyorbek_2oo4",
+      "food": "Mastava"
+    }
+  ],
+  "Wed": [
+    {
+      "user": "Yoqubovich_2001",
+      "food": "Grechka"
+    }
+  ],
+  "Thu": [
+    {
+      "time": "user",
+      "food": "Taom"
+    }
+  ],
+  "Fri": [
+    {
+      "time": "user",
+      "food": "Taom"
+    }
+  ],
+  "Sat": [
+    {
+      "time": "user",
+      "food": "Taom"
+    }
+  ],
+  "Sun": [
+    {
+      "time": "user",
+      "food": "Taom"
+    }
+  ]
+}

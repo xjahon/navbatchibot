@@ -1,0 +1,3874 @@
+{
+  "student": [
+    [
+      {
+        "sanoat": {
+          "1_kurs": {
+            "s101a": {
+              "Du": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Se": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ch": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Pa": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ju": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Sh": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              }
+            },
+            "s101b": {
+              "Du": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Se": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ch": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Pa": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ju": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Sh": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              }
+            },
+            "s102a": {
+              "Du": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Se": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ch": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Pa": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ju": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Sh": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              }
+            },
+            "s102b": {
+              "Du": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Se": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ch": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Pa": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ju": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Sh": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              }
+            },
+            "s103a": {
+              "Du": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Se": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ch": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Pa": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ju": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Sh": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              }
+            },
+            "s103b": {
+              "Du": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Se": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ch": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Pa": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ju": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Sh": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              }
+            },
+            "s104a": {
+              "Du": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Se": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ch": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Pa": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ju": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Sh": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              }
+            },
+            "s104b": {
+              "Du": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Se": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ch": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Pa": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ju": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Sh": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              }
+            },
+            "s105a": {
+              "Du": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Se": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ch": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Pa": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ju": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Sh": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              }
+            },
+            "s105b": {
+              "Du": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Se": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ch": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Pa": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ju": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Sh": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              }
+            },
+            "s106a": {
+              "Du": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Se": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ch": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Pa": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ju": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Sh": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              }
+            },
+            "s106b": {
+              "Du": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Se": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ch": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Pa": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ju": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Sh": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              }
+            }
+          },
+          "2_kurs": {
+            "s201a": {
+              "Du": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Se": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ch": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Pa": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ju": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Sh": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              }
+            },
+            "s201b": {
+              "Du": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Se": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ch": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Pa": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ju": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Sh": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              }
+            },
+            "s202a": {
+              "Du": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Se": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ch": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Pa": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ju": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Sh": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              }
+            },
+            "s202b": {
+              "Du": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Se": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ch": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Pa": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ju": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Sh": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              }
+            },
+            "s203a": {
+              "Du": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Se": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ch": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Pa": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ju": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Sh": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              }
+            },
+            "s203b": {
+              "Du": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Se": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ch": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Pa": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ju": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Sh": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              }
+            },
+            "s204a": {
+              "Du": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Se": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ch": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Pa": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ju": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Sh": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              }
+            },
+            "s204b": {
+              "Du": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Se": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ch": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Pa": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ju": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Sh": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              }
+            },
+            "s205a": {
+              "Du": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Se": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ch": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Pa": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ju": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Sh": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              }
+            },
+            "s205b": {
+              "Du": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Se": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ch": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Pa": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ju": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Sh": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              }
+            },
+            "s206a": {
+              "Du": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Se": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ch": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Pa": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ju": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Sh": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              }
+            },
+            "s206b": {
+              "Du": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Se": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ch": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Pa": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ju": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Sh": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              }
+            }
+          },
+          "3_kurs": {
+            "s301a": {
+              "Du": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Se": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ch": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Pa": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ju": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Sh": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              }
+            },
+            "s301b": {
+              "Du": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Se": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ch": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Pa": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ju": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Sh": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              }
+            },
+            "s302a": {
+              "Du": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Se": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ch": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Pa": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ju": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Sh": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              }
+            },
+            "s302b": {
+              "Du": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Se": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ch": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Pa": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ju": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Sh": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              }
+            },
+            "s303a": {
+              "Du": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Se": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ch": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Pa": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ju": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Sh": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              }
+            },
+            "s303b": {
+              "Du": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Se": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ch": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Pa": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ju": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Sh": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              }
+            },
+            "s304a": {
+              "Du": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Se": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ch": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Pa": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ju": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Sh": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              }
+            },
+            "s304b": {
+              "Du": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Se": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ch": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Pa": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ju": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Sh": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              }
+            },
+            "s305a": {
+              "Du": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Se": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ch": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Pa": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ju": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Sh": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              }
+            },
+            "s305b": {
+              "Du": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Se": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ch": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Pa": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ju": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Sh": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              }
+            },
+            "s306a": {
+              "Du": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Se": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ch": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Pa": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ju": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Sh": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              }
+            },
+            "s306b": {
+              "Du": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Se": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ch": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Pa": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ju": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Sh": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              }
+            }
+          },
+          "4_kurs": {
+            "s401a": {
+              "Du": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Se": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ch": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Pa": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ju": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Sh": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              }
+            },
+            "s401b": {
+              "Du": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Se": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ch": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Pa": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ju": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Sh": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              }
+            },
+            "s402a": {
+              "Du": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Se": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ch": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Pa": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ju": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Sh": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              }
+            },
+            "s402b": {
+              "Du": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Se": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ch": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Pa": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ju": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Sh": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              }
+            },
+            "s403a": {
+              "Du": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Se": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ch": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Pa": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ju": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Sh": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              }
+            },
+            "s403b": {
+              "Du": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Se": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ch": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Pa": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ju": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Sh": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              }
+            },
+            "s404a": {
+              "Du": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Se": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ch": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Pa": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ju": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Sh": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              }
+            },
+            "s404b": {
+              "Du": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Se": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ch": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Pa": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ju": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Sh": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              }
+            },
+            "s405a": {
+              "Du": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Se": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ch": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Pa": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ju": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Sh": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              }
+            },
+            "s405b": {
+              "Du": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Se": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ch": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Pa": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ju": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Sh": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              }
+            },
+            "s406a": {
+              "Du": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Se": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ch": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Pa": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ju": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Sh": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              }
+            },
+            "s406b": {
+              "Du": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Se": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ch": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Pa": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ju": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Sh": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              }
+            }
+          },
+          "5_kurs": {
+            "s501a": {
+              "Du": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Se": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ch": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Pa": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ju": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Sh": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              }
+            },
+            "s501b": {
+              "Du": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Se": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ch": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Pa": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ju": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Sh": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              }
+            },
+            "s502a": {
+              "Du": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Se": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ch": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Pa": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ju": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Sh": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              }
+            },
+            "s502b": {
+              "Du": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Se": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ch": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Pa": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ju": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Sh": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              }
+            },
+            "s503a": {
+              "Du": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Se": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ch": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Pa": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ju": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Sh": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              }
+            },
+            "s503b": {
+              "Du": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Se": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ch": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Pa": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ju": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Sh": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              }
+            },
+            "s504a": {
+              "Du": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Se": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ch": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Pa": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ju": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Sh": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              }
+            },
+            "s504b": {
+              "Du": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Se": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ch": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Pa": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ju": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Sh": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              }
+            },
+            "s505a": {
+              "Du": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Se": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ch": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Pa": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ju": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Sh": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              }
+            },
+            "s505b": {
+              "Du": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Se": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ch": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Pa": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ju": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Sh": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              }
+            },
+            "s506a": {
+              "Du": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Se": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ch": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Pa": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ju": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Sh": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              }
+            },
+            "s506b": {
+              "Du": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Se": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ch": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Pa": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ju": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Sh": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              }
+            }
+          }
+        },
+
+        "farmatsiya": {
+          "1_kurs": {
+            "f101a": {
+              "Du": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Se": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ch": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Pa": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ju": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Sh": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              }
+            },
+            "f101b": {
+              "Du": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Se": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ch": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Pa": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ju": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Sh": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              }
+            },
+            "f102a": {
+              "Du": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Se": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ch": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Pa": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ju": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Sh": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              }
+            },
+            "f102b": {
+              "Du": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Se": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ch": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Pa": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ju": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Sh": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              }
+            },
+            "f103a": {
+              "Du": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Se": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ch": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Pa": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ju": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Sh": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              }
+            },
+            "f103b": {
+              "Du": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Se": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ch": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Pa": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ju": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Sh": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              }
+            },
+            "f104a": {
+              "Du": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Se": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ch": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Pa": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ju": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Sh": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              }
+            },
+            "f104b": {
+              "Du": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Se": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ch": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Pa": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ju": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Sh": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              }
+            },
+            "f105a": {
+              "Du": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Se": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ch": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Pa": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ju": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Sh": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              }
+            },
+            "f105b": {
+              "Du": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Se": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ch": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Pa": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ju": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Sh": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              }
+            },
+            "f106a": {
+              "Du": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Se": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ch": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Pa": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ju": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Sh": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              }
+            },
+            "f106b": {
+              "Du": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Se": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ch": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Pa": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ju": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Sh": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              }
+            }
+          },
+          "2_kurs": {
+            "f201a": {
+              "Du": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Se": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ch": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Pa": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ju": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Sh": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              }
+            },
+            "f201b": {
+              "Du": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Se": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ch": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Pa": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ju": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Sh": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              }
+            },
+            "f202a": {
+              "Du": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Se": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ch": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Pa": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ju": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Sh": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              }
+            },
+            "f202b": {
+              "Du": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Se": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ch": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Pa": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ju": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Sh": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              }
+            },
+            "f203a": {
+              "Du": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Se": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ch": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Pa": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ju": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Sh": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              }
+            },
+            "f203b": {
+              "Du": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Se": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ch": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Pa": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ju": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Sh": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              }
+            },
+            "f204a": {
+              "Du": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Se": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ch": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Pa": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ju": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Sh": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              }
+            },
+            "f204b": {
+              "Du": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Se": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ch": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Pa": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ju": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Sh": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              }
+            },
+            "f205a": {
+              "Du": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Se": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ch": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Pa": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ju": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Sh": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              }
+            },
+            "f205b": {
+              "Du": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Se": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ch": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Pa": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ju": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Sh": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              }
+            },
+            "f206a": {
+              "Du": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Se": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ch": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Pa": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ju": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Sh": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              }
+            },
+            "f206b": {
+              "Du": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Se": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ch": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Pa": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ju": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Sh": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              }
+            }
+          },
+          "3_kurs": {
+            "f301a": {
+              "Du": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Se": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ch": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Pa": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ju": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Sh": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              }
+            },
+            "f301b": {
+              "Du": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Se": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ch": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Pa": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ju": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Sh": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              }
+            },
+            "f302a": {
+              "Du": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Se": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ch": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Pa": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ju": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Sh": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              }
+            },
+            "f302b": {
+              "Du": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Se": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ch": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Pa": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ju": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Sh": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              }
+            },
+            "f303a": {
+              "Du": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Se": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ch": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Pa": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ju": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Sh": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              }
+            },
+            "f303b": {
+              "Du": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Se": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ch": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Pa": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ju": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Sh": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              }
+            },
+            "f304a": {
+              "Du": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Se": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ch": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Pa": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ju": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Sh": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              }
+            },
+            "f304b": {
+              "Du": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Se": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ch": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Pa": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ju": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Sh": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              }
+            },
+            "f305a": {
+              "Du": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Se": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ch": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Pa": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ju": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Sh": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              }
+            },
+            "f305b": {
+              "Du": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Se": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ch": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Pa": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ju": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Sh": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              }
+            },
+            "f306a": {
+              "Du": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Se": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ch": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Pa": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ju": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Sh": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              }
+            },
+            "f306b": {
+              "Du": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Se": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ch": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Pa": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ju": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Sh": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              }
+            }
+          },
+          "4_kurs": {
+            "f401a": {
+              "Du": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Se": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ch": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Pa": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ju": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Sh": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              }
+            },
+            "f401b": {
+              "Du": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Se": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ch": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Pa": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ju": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Sh": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              }
+            },
+            "f402a": {
+              "Du": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Se": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ch": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Pa": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ju": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Sh": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              }
+            },
+            "f402b": {
+              "Du": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Se": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ch": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Pa": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ju": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Sh": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              }
+            },
+            "f403a": {
+              "Du": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Se": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ch": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Pa": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ju": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Sh": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              }
+            },
+            "f403b": {
+              "Du": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Se": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ch": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Pa": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ju": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Sh": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              }
+            },
+            "f404a": {
+              "Du": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Se": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ch": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Pa": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ju": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Sh": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              }
+            },
+            "f404b": {
+              "Du": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Se": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ch": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Pa": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ju": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Sh": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              }
+            },
+            "f405a": {
+              "Du": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Se": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ch": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Pa": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ju": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Sh": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              }
+            },
+            "f405b": {
+              "Du": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Se": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ch": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Pa": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ju": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Sh": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              }
+            },
+            "f406a": {
+              "Du": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Se": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ch": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Pa": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ju": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Sh": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              }
+            },
+            "f406b": {
+              "Du": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Se": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ch": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Pa": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ju": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Sh": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              }
+            }
+          },
+          "5_kurs": {
+            "f501a": {
+              "Du": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Se": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ch": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Pa": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ju": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Sh": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              }
+            },
+            "f501b": {
+              "Du": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Se": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ch": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Pa": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ju": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Sh": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              }
+            },
+            "f502a": {
+              "Du": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Se": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ch": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Pa": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ju": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Sh": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              }
+            },
+            "f502b": {
+              "Du": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Se": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ch": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Pa": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ju": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Sh": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              }
+            },
+            "f503a": {
+              "Du": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Se": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ch": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Pa": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ju": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Sh": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              }
+            },
+            "f503b": {
+              "Du": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Se": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ch": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Pa": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ju": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Sh": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              }
+            },
+            "f504a": {
+              "Du": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Se": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ch": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Pa": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ju": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Sh": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              }
+            },
+            "f504b": {
+              "Du": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Se": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ch": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Pa": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ju": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Sh": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              }
+            },
+            "f505a": {
+              "Du": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Se": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ch": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Pa": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ju": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Sh": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              }
+            },
+            "f505b": {
+              "Du": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Se": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ch": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Pa": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ju": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Sh": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              }
+            },
+            "f506a": {
+              "Du": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Se": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ch": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Pa": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ju": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Sh": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              }
+            },
+            "f506b": {
+              "Du": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Se": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ch": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Pa": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Ju": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              },
+              "Sh": {
+                "80-30": "Fizika",
+                "10-00": "Matemtika",
+                "10-30": "English"
+              }
+            }
+          }
+        }
+      }
+    ]
+  ],
+  "techer": {}
+}
